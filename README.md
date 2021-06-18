@@ -10,7 +10,7 @@ This solver is developed to simulate turbulence mixing and chemical adsorption i
 - Hydrodynamic dispersion coefficient tensor can be defined by longitudinal and transverse dispersivity
 - First-oder time splitting for transport and reaction (for now)
 - Stiff ODE solver for reaction
-- Example of inverse modeling of adsorption and headloss are provided in the reference
+- Examples for inverse modeling of adsorption and headloss are provided in the reference
 
 Here is an example 
 ![Alt Text](https://github.com/Rdfing/interAdsFoam/blob/main/example.gif)
