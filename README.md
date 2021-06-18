@@ -4,6 +4,9 @@ Multi-phase CFD solver for chemical transport and adsorption with dynamic mass t
 ## Description
 This solver is developed to simulate turbulence mixing and chemical adsorption in urban water treatment systems. The solver integrates VOF with chemical adsorption. 
 
+Here is an example 
+![Alt Text](https://github.com/Rdfing/interAdsFoam/blob/main/example.gif)
+
 ## Prerequisites
 OpenFOAM-v1912 
 
