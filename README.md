@@ -11,7 +11,7 @@ This solver is developed to simulate turbulence mixing and chemical adsorption i
 - Turbulence modeling is suppressed in reactor (granular Reynold number too small, laminar flow)
 - Non-equilibrium (Langmuir-like) adsorption model 
 - Hydrodynamic dispersion coefficient tensor can be defined by longitudinal and transverse dispersivity
-- First-oder time splitting for transport and reaction (for now)
+- First-order time splitting for transport and reaction (for now)
 - Stiff ODE solver for reaction
 - Examples for inverse modeling of adsorption and headloss are provided in the reference
 
