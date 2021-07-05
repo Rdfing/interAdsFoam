@@ -1,9 +1,6 @@
 # interAdsFoam
 Multi-phase CFD solver for chemical transport and adsorption with dynamic mass transfer zone induced by varying fluid interface. The solver is developed to simulate system where bulk fluid flow and porous media flow both present.
 
-## Reference
-Li, H., & Sansalone, J. (under review). CFD modeling of granular media adsorption system with dynamic reaction zones subject to uncontrolled urban water fluxes. 
-
 ## Description
 This solver is developed to simulate turbulence mixing and chemical adsorption in urban water treatment systems. The solver integrates VOF with chemical adsorption.
 - Fluid interface capturing by VOF (inherited from interFoam)
@@ -25,6 +22,9 @@ OpenFOAM-v1912
 Haochen Li, PhD <br />
 Department of Environmental Engineering Sciences <br />
 University of Florida
+
+## Reference
+Li, H., & Sansalone, J. (under review). CFD modeling of granular media adsorption system with dynamic reaction zones subject to uncontrolled urban water fluxes. 
 
 ## Disclaimer
 This offering is not approved or endorsed by OpenCFD Limited, producer and distributor of the OpenFOAM software and owner of the OPENFOAM®  and OpenCFD®  trade marks.
