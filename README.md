@@ -1,4 +1,5 @@
-# interAdsFoam
+# interAdsFoam [![Github All Releases](https://img.shields.io/github/downloads/Rdfing/interAdsFoam/total.svg)]()
+
 Multi-phase CFD solver for chemical transport and adsorption with dynamic mass transfer zone induced by varying fluid interface. The solver is developed to simulate system where bulk fluid flow and porous media flow both present.
 
 ## Description
