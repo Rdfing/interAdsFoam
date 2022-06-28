@@ -25,7 +25,7 @@ Department of Environmental Engineering Sciences <br />
 University of Florida
 
 ## Reference
-Li, H., & Sansalone, J. (under review). CFD modeling of decentralized granular media adsorption system with dynamic reaction zones subject to uncontrolled urban water fluxes. 
+Li, H., Sansalone, J., 2022. InterAdsFoam: An Open-Source CFD Model for Granular Media–Adsorption Systems with Dynamic Reaction Zones Subject to Uncontrolled Urban Water Fluxes. J. Environ. Eng. 148, 04022049. https://doi.org/10.1061/(ASCE)EE.1943-7870.0002027
 
 ## Disclaimer
 This offering is not approved or endorsed by OpenCFD Limited, producer and distributor of the OpenFOAM software and owner of the OPENFOAM®  and OpenCFD®  trade marks.
